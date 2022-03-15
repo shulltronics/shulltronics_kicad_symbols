@@ -927,7 +927,10 @@
     (property "Footprint" "Shulltronics_Generics:TSSOP-20_4.4x6.5mm_P0.65mm" (id 2) (at 0 -17.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/MCP48FXBX4-8-Family-Data-Sheet-DS20006362A.pdf" (id 3) (at 0 1.27 0)
+    (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/MCP48FXBX4-8-Family-Data-Sheet-DS20006362A.pdf" (id 3) (at 0 -20.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "SPN" "4001" (id 4) (at 0 -22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "4001_MCP48FEB24_DAC_0_1"
